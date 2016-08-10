@@ -28,7 +28,7 @@ public class searchMatrix_solution {
         public boolean searchMatrix(int[][] matrix, int target) {
             // write your code here
             int length = matrix[0].length;
-            System.out.println("dfdf");
+            System.out.println("");
             return false;
         }
 
